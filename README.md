@@ -168,27 +168,27 @@ loan_data_validation_framework/
 
 ## 14. Value Delivered
 
-- ** Improved Data Reliability**  
+- **Improved Data Reliability**  
   Achieved a 96% reliability score with only one privacy-related exception.
 
-- ** Privacy Compliance**  
+- **Privacy Compliance**  
   Enforced consent flag validation and masked PII where required.  
   Supported DPIA readiness and GDPR alignment.
 
-- ** Audit-Ready Submissions**  
+- **Audit-Ready Submissions**  
   Generated traceable validation logs, exception reports, and reliability scoring.  
   Enabled internal and external audit transparency.
 
-- ** Reduced Manual QA Effort**  
+- **Reduced Manual QA Effort**  
   Automated rule-based validation, cutting manual review time by over **60%**.
 
-- ** Cross-Team Visibility**  
+- **Cross-Team Visibility**  
   Enabled collaboration between credit risk, compliance, legal, and data governance teams.
 
-- ** Regulatory Alignment**  
+- **Regulatory Alignment**  
   Fully aligned with **FCA**, **PRA**, **EBA**, and **ICO** expectations for compliant loan-level reporting.
 
-- ** Reusable Framework**  
+- **Reusable Framework**  
   Adaptable for other regulatory domains such as **Ofgem**, **OfS**, and **NHS Digital**.
 
 ---
