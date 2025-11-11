@@ -35,15 +35,14 @@ Financial institutions face increasing pressure to ensure the **accuracy, comple
 
 ##  3. Integration & Compatibility
 
-| Category | Description |
-|-----------|--------------|
-| **Data Sources** | Cloud storage, DBFS, relational databases |
-| **Formats Supported** | CSV, XML |
-| **Delivery Method** | Secure FTP upload to regulator portals |
-| **Validation Configs** | YAML-based, fully customizable |
-| **Audit Logs** | Stored and versioned for inspection |
-| **Privacy Enforcement** | Consent and access flags validated for PII fields |
-| **DPIA Support** | Generates privacy impact summaries and traceable remediation logs |
+- Data Sources: Cloud storage, DBFS, relational databases
+- Formats Supported: CSV, XML
+- Delivery Method: Secure FTP upload to regulator portals
+- Validation Configs: YAML-based, fully customizable
+- Audit Logs: Stored and versioned for inspection
+- Privacy Enforcement: Consent and access flags validated for PII fields
+- DPIA Support: Generates privacy impact summaries and traceable remediation logs
+
 
 ---
 
